@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "latex-ocr",
+	"name": "LaTeX OCR",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A plugin extract LaTeX codes from images.",
+	"author": "Carbene",
+	"authorUrl": "https://github.com/Hyiker",
 	"isDesktopOnly": false
 }
